@@ -1,0 +1,5 @@
+#Ignore all node modules, and install them again locally
+node_modules/
+
+#Ignore everything in the build folder, and compile again locally
+build/
