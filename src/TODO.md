@@ -1,0 +1,2 @@
+- Make the SECRET_KEY used for JWTs more secure
+- Add an admin account with special privileges to the database

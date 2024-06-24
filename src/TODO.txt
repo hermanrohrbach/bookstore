@@ -1,4 +1,0 @@
-1. Make sure that users only have privileges to remove themselves (using the id from their JWT)
-2. Add functionality to pair users to the books they own
-3. Make the SECRET_KEY used for JWTs more secure
-4. Add an admin account with special privileges to the database
