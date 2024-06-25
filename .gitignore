@@ -4,5 +4,8 @@ node_modules/
 #Ignore everything in the build folder, and compile again locally
 build/
 
+#Ignore the sqlite database, as it is automatically generated
+src/database/database.sqlite
+
 #package-lock.json is automatically updated
 package-lock.json
