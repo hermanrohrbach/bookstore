@@ -3,7 +3,7 @@
 
  ## installation
 1. `npm install express sequelize sqlite3 bcrypt jsonwebtoken`
-2. `typescript ts-node sequelize-typescript @types/express @types/node @types/bcrypt @types/jsonwebtoken`
+2. `npm install --save-dev typescript ts-node sequelize-typescript @types/express @types/node @types/bcrypt @types/jsonwebtoken`
 3. You're good to go! Simply run `npm start`
 
 ## postman

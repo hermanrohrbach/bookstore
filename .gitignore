@@ -3,3 +3,6 @@ node_modules/
 
 #Ignore everything in the build folder, and compile again locally
 build/
+
+#package-lock.json is automatically updated
+package-lock.json
