@@ -10,6 +10,7 @@ bookRouter.get('/echo/:echoMessage', (req, res) => {
 })
 
 bookRouter.get('/findAll', auth, bookController.findAll);
+bookRouter.get('/findOne', auth, bookController.findOne);
 bookRouter.post('/add', auth, bookController.add);
 
 export default bookRouter;
